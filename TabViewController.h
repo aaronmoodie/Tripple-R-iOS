@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TabViewController.h
 //  TrippleR
 //
 //  Created by Aaron Moodie on 11/17/14.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface TabViewController : UITabBarController
 
 @end
-

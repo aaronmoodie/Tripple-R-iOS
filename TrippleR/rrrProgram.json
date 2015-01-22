@@ -1,0 +1,90 @@
+[
+	{
+        "title": "Breakfasters",
+		"img_url": "http://www.rrr.org.au/assets/rrr8_cropped_135x1352.jpg",
+		"hosts": ["Steve Wide and guests"],
+        "duration": 3,
+        "show_times": [
+        	{
+                "day": 1,
+                "time": 6
+            },
+            {
+                "day": 2,
+                "time": 6
+            },
+            {
+                "day": 3,
+                "time": 6
+            },
+            {
+                "day": 4,
+                "time": 6
+            },
+            {
+                "day": 5,
+                "time": 6
+            }
+        ]
+    },
+	{
+        "title": "The Grapevine",
+		"img_url": "http://www.rrr.org.au/assets/grapevine-230-x-250.jpg",
+		"hosts": ["Kulja Coulston", "Dylan Bird"],
+        "duration": 3,
+        "show_times": [
+            {
+                "day": 1,
+                "time": 9
+            }
+        ]
+	},
+	{
+        "title": "Room With A View",
+		"img_url": "http://www.rrr.org.au/assets/room-with-a-view-135-x-135.jpg",
+		"hosts": ["teams from RMIT's Media Studies"],
+        "duration": 1,
+		"show_times": [
+			{
+				"day": 1,
+				"time": 12
+			}
+		]
+	},
+	{
+        "title": "Zero G",
+		"img_url": "http://www.rrr.org.au/assets/zero-g5_cropped_135x135.jpg",
+		"hosts": ["Rob Jan"],
+        "duration": 1,
+		"show_times": [
+			{
+				"day": 1,
+				"time": 13
+			}
+		]
+	},
+	{
+        "title": "Astral Glamour",
+		"img_url": "http://www.rrr.org.au/assets/astral-glamour_cropped_135x135.jpg",
+		"hosts": ["Joe Brnadic"],
+        "duration": 2,
+		"show_times": [
+			{
+				"day": 1,
+				"time": 14
+			}
+		]
+	},
+    {
+        "title": "Maps",
+		"img_url": "http://cdn.rrr.org.au/assets/fee-b-squared_cropped_230x2502.jpg",
+		"hosts": ["Fee B-Squared"],
+        "duration": 3,
+		"show_times": [
+			{
+				"day": 1,
+				"time": 16
+			}
+		]
+	}
+]
